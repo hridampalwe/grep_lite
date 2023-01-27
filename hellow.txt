@@ -1,0 +1,5 @@
+henlo this is the 
+program made to 
+read the file using
+the rust programming 
+
